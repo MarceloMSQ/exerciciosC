@@ -1,4 +1,4 @@
-#include <stdio.h> // importanto biblioteca saida e entrada dados
+#include <stdio.h> // importando biblioteca saida e entrada dados
 #include <stdlib.h> // Recursos basicos para trabalhar com terminal
 
 int main(){
