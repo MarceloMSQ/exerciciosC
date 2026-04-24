@@ -11,6 +11,7 @@ int main() {
 	gets(sobreNome);
 	
 	printf("Ola senhor %s %s. Bem-vindo ao curso C Progressivo. \n", nome, sobreNome);
+	printf("O nome tem tamanho %d", strlen(nome));
 	
 	return 0;
 }
