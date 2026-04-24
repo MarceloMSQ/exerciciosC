@@ -4,6 +4,8 @@
 // strlen(); função retorna tamanho da string.
 //strcpy (dest, fonte); copia string contida na variável fonte para dest.
 //strcat (dest, fonte); concatena string.
+//strcmp(str1, str2);
+//puts(nome);//mesma função do printf e não precisa especificar formato.
 
 int main() {
 	char nome[21], sobreNome[21];
