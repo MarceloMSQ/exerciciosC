@@ -13,4 +13,6 @@ int main(){
     printf("O dobro de %d e: %d\n", numero, dobro); 
     printf("O triplo de %d e: %d\n", numero, triplo); 
 
+       
+
 }
